@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1744117595 source:c:\users\admin\onedrive - vnu.edu.vn\documents\thaiduong\game2048\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<cstdlib>
+	<ctime>
+	<vector>
+	"graphics.h"
+
+1744117595 source:c:\users\admin\onedrive - vnu.edu.vn\documents\thaiduong\game2048\graphics.cpp
+	"graphics.h"
+
+1744117595 c:\users\admin\onedrive - vnu.edu.vn\documents\thaiduong\game2048\graphics.h
+	"defs.h"
+	"logic.h"
+
+1744104600 c:\users\admin\onedrive - vnu.edu.vn\documents\thaiduong\game2048\defs.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<vector>
+	<algorithm>
+
+1744083650 c:\users\admin\onedrive - vnu.edu.vn\documents\thaiduong\game2048\logic.h
+	"input.h"
+	"graphics.h"
+	"gameMechanic.h"
+
+1743520212 c:\users\admin\onedrive - vnu.edu.vn\documents\thaiduong\game2048\input.h
+	<string>
+
+1744003991 source:c:\users\admin\onedrive - vnu.edu.vn\documents\thaiduong\game2048\input.cpp
+	"input.h"
+
+1744083650 source:c:\users\admin\onedrive - vnu.edu.vn\documents\thaiduong\game2048\logic.cpp
+	"logic.h"
+
+1744117693 c:\users\admin\onedrive - vnu.edu.vn\documents\thaiduong\game2048\gamemechanic.h
+	"graphics.h"
+	"logic.h"
+
+1744118801 source:c:\users\admin\onedrive - vnu.edu.vn\documents\thaiduong\game2048\gamemechanic.cpp
+	"gamemechanic.h"
+
